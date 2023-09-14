@@ -1,5 +1,5 @@
-let num1 = 2
- let num2 = 4 
+let num1 = 1000
+ let num2 = 100
  document.getElementById("num1-el").textContent = num1 
  document.getElementById("num2-el").textContent = num2 
   
